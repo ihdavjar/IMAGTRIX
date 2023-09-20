@@ -20,3 +20,6 @@ To make a device that can predict the weather by diagnosing images taken by it u
 - The image clicked by the camera will not be stored, will be directly input into the code and will be deleted once output is received hence reducing the space required. 
 - After we input an image into the program it will list down the similarity percentage with each of the image in the data set  
 - Then the Output will be shown on matrix display in such a way that if fog score is high, then it will display (“Fog ahead go slow”) and in similar fashion for others
+
+# Note:-
+For demonstration purpose [video](https://www.youtube.com/watch?v=Xm5wMY1_qNc)
